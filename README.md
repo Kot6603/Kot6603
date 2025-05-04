@@ -1,7 +1,6 @@
-## Hi there 👋
+i use neovim, btw
 
-I use Neovim, btw
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/Kot66?theme=light&font=Inter&ext=heatmap)
 
 <a href="https://github.com/Kot6603"><img alt="profile views" title="Website" src="https://komarev.com/ghpvc/?username=Kot6603&style=for-the-badge&label=PROFILE+VIEWS"/></a>
 
